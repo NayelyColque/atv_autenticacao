@@ -1,3 +1,3 @@
 "# PW3Tarefas" 
-"# PW3Tarefas" 
-"# ATV_Autenticacao" 
+"# Atividade – Entrega do Projeto pw3-tarefas" 
+"# Feito por Carlos Ananias e Nayely do 3°BI" 
